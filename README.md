@@ -1,3 +1,4 @@
+![logo](https://github.com/lakshyasharma9/Lakshya-Sharma/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Lakshya Sharma</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt ="coding" width ="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
